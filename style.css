@@ -1,6 +1,5 @@
 body {
-    background-color: #fce5cd;
-    background-image: url('https://i.imgur.com/RnLwdN8.png');
+    background-color: #eecaa4;
     background-repeat: repeat;
   }
   
@@ -45,7 +44,7 @@ body {
       max-width: 100%;
     }
   } 
-   
+
   @media screen and (min-width: 481px) {
     #photo {
       width: 800px;
